@@ -1,6 +1,6 @@
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering
-Bernhard Kerbl*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis (* indicates equal contribution)<br>
-![Alternative text]()
+
+<img width="1599" alt="image" src="https://github.com/Mrkomiljon/Deepfake_ls/assets/92161283/a6bc52ae-28f0-4bfa-b4b7-37bb1f3e9557">
 
 
 This repository contains the official authors implementation associated with the paper "3D Gaussian Splatting for Real-Time Radiance Field Rendering", which can be found [here](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). We further provide the reference images used to create the error metrics reported in the paper, as well as recently created, pre-trained models. 
