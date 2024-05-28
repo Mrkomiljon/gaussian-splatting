@@ -8,11 +8,9 @@ This repository contains the official authors implementation associated with the
 ![Untitled video - Made with Clipchamp (25) (3) (1)-min](https://github.com/Mrkomiljon/Deepfake_ls/assets/92161283/1e67e3ed-4f86-46d3-b46d-5a339c656657)
 
 
-Jonathan Stephens made a fantastic step-by-step tutorial for setting up Gaussian Splatting on your machine, along with instructions for creating usable datasets from videos. If the instructions below are too dry for you, go ahead and check it out [here](https://www.youtube.com/watch?v=UXtuigy_wYc).
+https://github.com/Mrkomiljon/gaussian-splatting/assets/92161283/4a7d4942-409a-44ca-8314-e9f78320c78f
 
-## Colab
 
-User [camenduru](https://github.com/camenduru) was kind enough to provide a Colab template that uses this repo's source (status: August 2023!) for quick and easy access to the method. Please check it out [here](https://github.com/camenduru/gaussian-splatting-colab).
 
 ## Cloning the Repository
 
