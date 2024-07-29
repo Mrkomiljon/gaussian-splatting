@@ -8,7 +8,7 @@ This repository contains the official authors implementation associated with the
 ![Untitled video - Made with Clipchamp (25) (3) (1)-min](https://github.com/Mrkomiljon/Deepfake_ls/assets/92161283/1e67e3ed-4f86-46d3-b46d-5a339c656657)
 
 
-https://github.com/Mrkomiljon/gaussian-splatting/assets/92161283/4a7d4942-409a-44ca-8314-e9f78320c78f
+
 
 
 
